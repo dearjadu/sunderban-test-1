@@ -2,6 +2,7 @@ plugins {
 	id 'org.springframework.boot' version '2.3.4.RELEASE'
 	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
 	id 'java'
+	id "org.sonarqube" version '3.0'
 }
 
 group = 'app.kartik.demos'
@@ -27,4 +28,12 @@ dependencies {
 
 test {
 	useJUnitPlatform()
+}
+
+sonarqube {
+	properties {
+		property "sonar.projectKey", 'dearjadu_sunderban-test-1'
+		property "sonar.organization", 'kartik-app'
+		property "sonar.host.url", 'https://sonarcloud.io'
+	}
 }
