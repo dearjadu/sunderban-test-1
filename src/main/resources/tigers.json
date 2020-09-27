@@ -1,0 +1,47 @@
+{
+  "Bengal": {
+    "name": "Bengal",
+    "wikiLink": "https://en.wikipedia.org/wiki/Bengal_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Adult_male_Royal_Bengal_tiger.jpg/2560px-Adult_male_Royal_Bengal_tiger.jpg"
+  },
+  "Siberian": {
+    "name": "Siberian",
+    "wikiLink": "https://en.wikipedia.org/wiki/Siberian_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/b/b6/P.t.altaica_female.jpg"
+  },
+  "Sumatran": {
+    "name": "Sumatran",
+    "wikiLink": "https://en.wikipedia.org/wiki/Sumatran_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sumatran_Tiger_Berlin_Tierpark.jpg/2880px-Sumatran_Tiger_Berlin_Tierpark.jpg"
+  },
+  "Caspian": {
+    "name": "Caspian",
+    "wikiLink": "https://en.wikipedia.org/wiki/Caspian_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/1/13/Extantigerturanianwksciam97.jpg"
+  },
+  "Malayan": {
+    "name": "Malayan",
+    "wikiLink": "https://en.wikipedia.org/wiki/Malayan_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MalayanTiger01.jpg/2560px-MalayanTiger01.jpg"
+  },
+  "Indochinese": {
+    "name": "Indochinese",
+    "wikiLink": "https://en.wikipedia.org/wiki/Indochinese_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Panthera_tigris_corbetti_01.jpg/2560px-Panthera_tigris_corbetti_01.jpg"
+  },
+  "SouthChina": {
+    "name": "SouthChina",
+    "wikiLink": "https://en.wikipedia.org/wiki/South_China_tiger",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2012_Suedchinesischer_Tiger.JPG/2560px-2012_Suedchinesischer_Tiger.JPG"
+  },
+  "Javan": {
+    "name": "Javan",
+    "wikiLink": "https://en.wikipedia.org/wiki/Javan_tiger",
+    "imageLink": "https://factsofindonesia.com/wp-content/uploads/2018/04/Javan-Tiger.jpg"
+  },
+  "Balinese": {
+    "name": "Balinese",
+    "wikiLink": "https://en.wikipedia.org/wiki/Bali_tiger",
+    "imageLink": "http://tigertribe.net/wp-content/uploads/2012/03/Balinese-Tiger1-1.jpg"
+  }
+}
